@@ -1,7 +1,7 @@
 ## Hi folks 👋
  
 <!--# 💫 About Me:-->
-  I am Farohe Soheyb, a passionate software engineer with expertise in machine learning and problem-solving. With over a year of professional experience as a web developer, I specialize in building e-commerce solutions. I am interested in collaboration, teamwork, continuous learning, research, and reading.
+  I am Farohe Soheyb, a passionate software engineer with expertise in machine learning and problem-solving. With over 2 years of professional experience as a web developer, I specialize in building e-commerce solutions. I am interested in collaboration, teamwork, continuous learning, research, and reading.
 
 ## 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
